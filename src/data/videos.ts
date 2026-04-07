@@ -129,7 +129,7 @@ const defaultVideos: Video[] = [
     description:
       "Long-form podcast episode discussing system design, scalability, and real-world engineering stories.",
     category: "Podcasts",
-    videoUrl: "/videos/videoplayback (7).mp4",
+    videoUrl: "/videos/videoplayback (6).mp4",
   },
 ];
 
